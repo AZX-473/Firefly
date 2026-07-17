@@ -1,5 +1,5 @@
 
-<img src="./docs/images/1131.png" width = "350" height = "500" alt="Firefly" align=right />
+<img src="./src/assets/images/icon2.jpg" width = "350" height = "500" alt="Firefly" align=right />
 
 <div align="center">
 
