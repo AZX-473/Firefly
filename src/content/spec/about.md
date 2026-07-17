@@ -6,7 +6,7 @@
 
 这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
 
-是由于我~~闲着没事~~为锻炼自己的代码水平~~(似乎没什么关系)~~创建的一个站点。
+是由于我 ~~闲着没事~~ 为锻炼自己的代码水平 (似乎没什么关系) 创建的一个站点。
 
 ---
 
