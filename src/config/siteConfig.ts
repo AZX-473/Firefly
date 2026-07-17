@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Demo site",
 
 	// 站点 URL
-	site_url: "firefly.whazx.workers.dev",
+	site_url: "https://firefly.whazx.workers.dev",
 
 	// 站点描述
 	description:
