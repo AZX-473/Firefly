@@ -22,14 +22,14 @@ export const sponsorConfig: SponsorConfig = {
 
 	// 打赏方式列表
 	methods: [
-		{
+		/*{
 			name: "微信",
 			icon: "fa7-brands:weixin",
 			qrCode: "/assets/images/sponsor/wechat.png",
 			link: "",
 			description: "使用 微信 扫码打赏",
 			enabled: true,
-		},
+		},*/
 		{
 			name: "爱发电",
 			icon: "simple-icons:afdian",
