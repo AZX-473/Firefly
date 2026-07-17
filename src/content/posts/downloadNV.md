@@ -1,7 +1,7 @@
 ---
-title: 下载/编译 NeonVision
+title: 下载/编译/使用 NeonVision
 published: 2026-07-17
-description: 保姆级教你下载和编译NeonVision
+description: 保姆级教你下载和编译及使用NeonVision
 tags: [C++,开发]
 category: 应用
 draft: false
@@ -11,9 +11,7 @@ draft: false
 
 #### 1.到[github仓库releases](https://github.com/AZX-473/Neon-Vision/releases/latest)下载最新的编译结果
 
-#### 2.解压缩
-
-#### 3.双击解压后的文件夹中的NeonVision.exe
+#### 2.双击NeonVision-Setup.exe,将会自动安装
 
 # 编译
 
@@ -27,6 +25,9 @@ draft: false
 
 #### 4.请一定要**设置vcpkg的环境变量**,不然你会在编译步骤被折磨死
 
----
+### 编译完成的结果不是安装包而是程序的可执行文件和依赖，请手动将除程序外的资源连同文件夹复制进程序文件夹内
 
-### 主菜单按右Ctrl打开,不要再问了
+#使用
+
+#### 主菜单按右Ctrl打开,不要再问了
+#### 会自动更新，无脑下一步即可
