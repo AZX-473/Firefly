@@ -3,7 +3,7 @@ title: 下载/编译/使用 NeonVision
 published: 2026-07-17
 description: 保姆级教你下载和编译及使用NeonVision
 tags: [C++,开发]
-category: 应用
+category: NeonVision
 draft: false
 ---
 
@@ -30,4 +30,4 @@ draft: false
 #使用
 
 #### 主菜单按右Ctrl打开,不要再问了
-#### 会自动更新，无脑下一步即可
+#### 会自动更新，无脑下一步即可(不必在意所有提示，除非你懂得每个按键的后果，红色字体无视即可)
