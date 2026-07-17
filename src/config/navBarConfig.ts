@@ -108,7 +108,9 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 			{
 				name: "BiliBili",
-				url: "https://github.com/AZX-473/Firefly",
+				url: "https://space.bilibili.com/1952950874",
+				icon: "fa7-brands:bilibili",
+				external: true,
 			}
 		],
 	});

@@ -34,6 +34,16 @@ export const galleryConfig: GalleryConfig = {
 			password: "123456",
 			passwordHint: "示例密码123456",
 		},*/
+		{
+			id: "fuckmywechatfriends",
+			name: "我好友神人发言合集纯享版",
+			description:
+				"泉兜捕时任",
+			location: "上海交流中心",
+			date: "2026-07-18",
+			tags: ["智人TV"],
+			password: "Ayin"
+		},
 	],
 
 	// 瀑布流最小列宽(px)，浏览器根据容器宽度自动计算列数，默认 240
