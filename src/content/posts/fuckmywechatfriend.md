@@ -11,12 +11,12 @@ password: Ayin
 
 ### 啥也别说了,看图吧
 
-#### ![](./images/queueimage/1.png)
-#### ![](./images/queueimage/2.png)
-#### ![](./images/queueimage/3.png)
-#### ![](./images/queueimage/4.png)
-#### ![](./images/queueimage/5.png)
-#### ![](./images/queueimage/6.png)
-#### ![](./images/queueimage/7.png)
-#### ![](./images/queueimage/8.png)
-#### ![](./images/queueimage/9.png)
+![](./images/queueimage/1.png)
+![](./images/queueimage/2.png)
+![](./images/queueimage/3.png)
+![](./images/queueimage/4.png)
+![](./images/queueimage/5.png)
+![](./images/queueimage/6.png)
+![](./images/queueimage/7.png)
+![](./images/queueimage/8.png)
+![](./images/queueimage/9.png)
