@@ -49,11 +49,14 @@ if (process.env.NODE_ENV === "development") {
 }
 
 // ============================================================
-// 修改点：直接启用 Cloudflare 适配器，不再依赖环境变量
+// 修改点：本地开发时不使用 Cloudflare 适配器，避免 Windows 崩溃
+// 生产环境（部署到 Cloudflare Pages）时才启用
 // ============================================================
-const adapter = cloudflare({
-	prerenderEnvironment: "node",
-});
+const adapter = process.env.NODE_ENV === "production"
+	? cloudflare({
+			prerenderEnvironment: "node",
+		})
+	: undefined;
 
 // https://astro.build/config
 export default defineConfig({
