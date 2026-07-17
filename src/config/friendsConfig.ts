@@ -25,7 +25,7 @@ export const friendsConfig: FriendLink[] = [
 	{
 		title: "皖狐",
 		imgurl:
-			"",
+			"https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEXXQlqWZAJtz3VLpSwSeQkmAYc8UiX8AACpSIAAm1OyFYNLrfU4dW_Jz0E.jpg",
 		desc: "记住每天保持微笑。",
 		siteurl: "null",
 		tags: ["Friend"],
