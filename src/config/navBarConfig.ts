@@ -106,6 +106,10 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				external: true,
 				icon: "material-symbols:docs",
 			},
+			{
+				name: "BiliBili",
+				url: "https://github.com/AZX-473/Firefly",
+			}
 		],
 	});
 
