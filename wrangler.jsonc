@@ -1,8 +1,12 @@
 {
-	"name": "firefly",
-	"compatibility_date": "2025-01-01",
-	"compatibility_flags": ["nodejs_compat"],
-	"assets": {
-		"directory": "./dist"
-	}
+  "name": "firefly",
+  "compatibility_date": "2025-01-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "./dist/_worker.js",
+  "routes": [
+    {
+      "pattern": "firefly.whazx.workers.dev",
+      "custom_domain": false
+    }
+  ]
 }
