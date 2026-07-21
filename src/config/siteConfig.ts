@@ -27,6 +27,7 @@ export const siteConfig: SiteConfig = {
 		"博客",
 		"技术博客",
 		"静态博客",
+		"AZX",
 	],
 
 	// 主题色
